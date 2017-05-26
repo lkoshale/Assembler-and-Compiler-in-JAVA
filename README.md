@@ -3,10 +3,10 @@
 ## What is JACK ##
  -  Jack - a simple, Java-like, object-based programming language. for more info ( http://www.nand2tetris.org/09.php )
 ### Hello world in jack: ###
- /** Hello World program. */
+- /** Hello World program. */
  class Main {
     function void main () {
-     // Prints some text using the standard library
+    // Prints some text using the standard library
        do Output.printString("Hello World");
        do Output.println(); // New line
        return;
